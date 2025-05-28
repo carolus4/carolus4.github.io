@@ -7,14 +7,14 @@ image: "/images/genai-nyc-runway_statue_of_liberty_waterfront.jpg"
 ---
 I moved to New York last month. An exciting empty page - soon filled with too many bullet points of things to do... One has stuck with me: how can I capture this very specific moment? I started messing with different generative AI tools, and in this post I wanted to share some of the process and pain points. I'm more tech than creative, but would love to hear any suggestions!
 
-## Idea
+## Idea {#idea}
 I stumbled on inspiration in our first week. My husband and I visited the Stonewall Inn, where Tree, [an activist](<https://punchdrink.com/articles/tree-sequoia-is-the-spirit-of-stonewall-inn-bar-nyc/)>), shared history and gossip. 
 
 It brought back teenage memories of listening to *[An Englishman in New York](https://www.youtube.com/watch?v=d27gTrPPAyk)*. There’s something of a hero in characters like [Quentin Crisp](https://en.wikipedia.org/wiki/Quentin_Crisp). 
 
 What if he'd been a Frenchman in Hoboken?
 
-## Kick-off
+## Kick-off {#kickoff}
 It’s easier to edit than to create wholesale. I found that to be a theme in GenAI, and certainly in this project. 
 
 I began planning with a stream of consciousness and ChatGPT. 
@@ -22,12 +22,12 @@ I began planning with a stream of consciousness and ChatGPT.
 
 Talking through and writing down my thoughts this way helped a lot.
 
-## Approach
+## Approach {#approach}
 - List the AI processes in scope
 - Summarize the thematic elements
 - Generate variations
 
-## Music & Lyrics
+## Music & Lyrics {#music}
 I used [Udio](https://www.udio.com/home) for a 30s snippet.
 
 I iterated on structure and theme without worrying about lyrics (1), before directly editing the text with ChatGPT. Focusing on one area at a time helped me feel like I was making smaller and easier decisions at every step.
@@ -41,14 +41,14 @@ I iterated on structure and theme without worrying about lyrics (1), before dire
 ></iframe>
 </div>
 
-## Base Images
+## Base Images {#images}
 I had high hopes for Runway on the image generation side. I stopped when I realized I was going down creative dead-ends. (2)
 
 After a break, I started over with [Kling AI](https://klingai.com). I'd missed the UX for reference images in Runway, and Kling's [detailed prompting guide](https://docs.qingque.cn/d/home/eZQCtOj9fX_6cUjT_0yuk-yrL) made a huge difference.
 
 ![good result of a pedestrian](/images/genai-nyc-kling-walker.png)
 
-## Animation
+## Animation {#animation}
 Lip sync was actually the least creative. It feels like animation will either mostly succeed, or very obviously fail. (3)
 
 <div class="video-container">
@@ -58,7 +58,7 @@ Lip sync was actually the least creative. It feels like animation will either mo
   </video>
 </div>
 
-## Conclusion
+## Conclusion {#conclusion}
 "Done is better than perfect". Even though I wasn’t 100% satisfied with any specific step in the process, and I had a bunch of other ideas I wanted to try, I stopped here. (4)
 
 I think AI today can get you 80% of the way there. And in the revenge of the [pareto principle](https://en.wikipedia.org/wiki/Pareto_principle), sometimes it feels like there's still 80% of the work left to do.
