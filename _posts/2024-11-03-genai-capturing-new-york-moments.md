@@ -49,7 +49,7 @@ After a break, I started over with [Kling AI](https://klingai.com). I'd missed t
 ![good result of a pedestrian](/images/genai-nyc-kling-walker.png)
 
 ## Animation {#animation}
-Lip sync was actually the least creative. It feels like animation will either mostly succeed, or very obviously fail. (3)
+Lip sync was actually the least creative. It feels like animation will either mostly succeed, or very obviously fail. In this case, Runway mostly succeeded. (3)
 
 <div class="video-container">
   <video controls>
