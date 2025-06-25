@@ -15,7 +15,7 @@ As a leader, I prioritize coaching and guiding my team through hands-on examples
 
 I’m always eager to connect with those who are equally passionate about building great products. Let’s talk about how we can push the boundaries of what's possible.
 
-[Read more: Charles Dupont - Resume](https://docs.google.com/document/d/e/2PACX-1vQZclXKOQNs6tLV21SSem8IgwBUnQIuaeHyxtLJOh0z3kSTGTmQDezS2G231WsNMkSNvecwIOIP3AoI/pub)
+[Read more: Charles Dupont - Resume](https://docs.google.com/document/d/e/2PACX-1vScvwQXNWtDHJCmkXLz_L-VqQ6d_J-IHuFzX-_UxJw7sxZpTLec6BZgN4L3RPHW-S46ezND7RuaiNG0/pub)
 
 ### Contact me
 [Send me an email (via Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSejFqvnGVUDY6LkE9MK624vUygDLL-gmpV41jHxq53-qedkow/viewform?usp=header)
