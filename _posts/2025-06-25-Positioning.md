@@ -11,6 +11,7 @@ Have you ever built a great solution to a real problem, but felt like the people
 When 
 - People who use your product love it, but 
 - It’s a huge effort to get them to try it, 
+
 Then
 - You may have a positioning problem.
 
