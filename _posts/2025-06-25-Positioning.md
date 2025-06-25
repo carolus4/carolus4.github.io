@@ -15,7 +15,9 @@ When
 Then
 - You may have a positioning problem.
 
-‘Positioning’ is how you want your users to think about your product. Done well, positioning instantly defines the unique value for a relevant audience.
+| ‘Positioning’ is how you want your users to think about your product. 
+
+Done well, positioning instantly defines the unique value for a relevant audience.
 - Who is it for? (Target segment) 
 - What does it do? (Pain + Solution) 
 - Why is it better than the alternatives? (Market + Differentiator) 
