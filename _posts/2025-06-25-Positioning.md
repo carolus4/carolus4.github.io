@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How do your users think about your product?
-excerpt: Have you ever built a great solution to a real problem, but felt like the people you’re building it for don’t immediately ‘get it’? Exploring positioning as a concept and walking through an example.
+excerpt: Have you ever built a great solution to a real problem, but felt like the people you’re building it for don’t immediately ‘get it’? Exploring positioning with examples.
 image: "/images/positioning-more-cookie-more-happy.jpg"
 
 ---
@@ -52,12 +52,55 @@ Here is the hero text on the home pages:
 
 From this message, we can guess at the positioning.
 
-|                            | **Calm**                                                                 | **Mindfulness Coach**                                              |
-|----------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|
-| **User Perspective**       | leads with emotional outcomes (**why**)  <br> *Sleep more. Stress less. Sleep better.* | leads with a lecture (**what**)  <br> *Understand mindfulness. Practise with structured lessons.* |
-| **Who is it for?**         | *Stressed people*                                                        | *Veterans and Service members*                                      |
-| **What does it do?**       | *stressed → calm*                                                        | *Not meditating → mindful*                                          |
-| **Why is it better than the alternatives?** | *Easy, aspirational*                                                     | *Works for people like me*                                          |
+<table style="width:100%; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr>
+      <th style="border-bottom: 2px solid #ccc; text-align: left;"></th>
+      <th style="border-bottom: 2px solid #ccc; text-align: left;">Calm</th>
+      <th style="border-bottom: 2px solid #ccc; text-align: left;">Mindfulness Coach</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 12px; border-bottom: 1px solid #eee;"><strong>User Perspective</strong></td>
+      <td style="padding: 12px; border-bottom: 1px solid #eee;">
+        <span style="background-color: #d4edda;">leads with emotional outcomes (<strong>why</strong>)</span><br>
+        <span style="background-color: #d4edda;"><em>Sleep more. Stress less. Sleep better.</em></span>
+      </td>
+      <td style="padding: 12px; border-bottom: 1px solid #eee;">
+        <span style="background-color: #f8d7da;">leads with a lecture (<strong>what</strong>)</span><br>
+        <em>Understand mindfulness. Practise with structured lessons.</em>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border-bottom: 1px solid #eee;"><strong>Who is it for?</strong></td>
+      <td style="padding: 12px; border-bottom: 1px solid #eee;">
+        <span style="background-color: #d4edda;"><em>Stressed people</em></span>
+      </td>
+      <td style="padding: 12px; border-bottom: 1px solid #eee;">
+        <span style="background-color: #d4edda;"><em>Veterans and Service members</em></span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border-bottom: 1px solid #eee;"><strong>What does it do?</strong></td>
+      <td style="padding: 12px; border-bottom: 1px solid #eee;">
+        <span style="background-color: #d4edda;"><em>stressed → calm</em></span>
+      </td>
+      <td style="padding: 12px; border-bottom: 1px solid #eee;">
+        <span style="background-color: #f8d7da;"><em>Not meditating → mindful</em></span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 12px;"><strong>Why is it better than the alternatives?</strong></td>
+      <td style="padding: 12px;">
+        <span style="background-color: #d4edda;"><em>Easy, aspirational</em></span>
+      </td>
+      <td style="padding: 12px;">
+        <span style="background-color: #d4edda;"><em>Works for people like me</em></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ‘Not meditating’ does not sound like a problem. Especially when the messaging starts with helping you understand what meditation is. If you don't know what it is - how do you know you need it?
 
@@ -66,3 +109,7 @@ From this message, we can guess at the positioning.
 - When you’re seeing an ad for a product you use, reflect on it. Was the messaging on point? Especially if you are the target audience, when do you feel the aha moment? 
 - Sell me this pen: https://www.youtube.com/watch?v=iawLbvCyGKw (match the pen to what the user needs)
 - Lenny’s podcast with April on product positioning https://www.lennysnewsletter.com/p/april-dunford-on-product-positioning
+
+---
+
+Post Image upscaled with ChatGPT, based on: _More cookie, more happy. Walmart display_. Theresa Robison on[Pinterest](https://uk.pinterest.com/pin/107804984815231646/)
