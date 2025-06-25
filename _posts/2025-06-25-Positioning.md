@@ -115,4 +115,4 @@ From this message, we can guess at the positioning.
 
 ---
 
-Post Image upscaled with ChatGPT, based on: _More cookie, more happy. Walmart display_. Theresa Robison on[Pinterest](https://uk.pinterest.com/pin/107804984815231646/)
+Post Image upscaled with ChatGPT, based on: _More cookie, more happy. Walmart display_, Theresa Robison on [Pinterest](https://uk.pinterest.com/pin/107804984815231646/)
