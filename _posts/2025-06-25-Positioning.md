@@ -47,7 +47,7 @@ Here is the hero text on the home pages:
 
 [Calm](https://www.calm.com/)
 
-! [Introduction Mindfulness means noticing and paying attention to what is going on in the present moment ...](/images/positioning-homepagehero-mindfulness-coach.png)
+![Introduction Mindfulness means noticing and paying attention to what is going on in the present moment ...](/images/positioning-homepagehero-mindfulness-coach.png)
 [mindfulness-coach](https://mobile.va.gov/app/mindfulness-coach)
 
 From this message, we can guess at the positioning.
@@ -65,7 +65,7 @@ From this message, we can guess at the positioning.
       <td style="padding: 12px; border-bottom: 1px solid #eee;"><strong>User Perspective</strong></td>
       <td style="padding: 12px; border-bottom: 1px solid #eee;">
         <span style="background-color: #d4edda;">leads with emotional outcomes (<strong>why</strong>)</span><br>
-        <span style="background-color: #d4edda;"><em>Sleep more. Stress less. Sleep better.</em></span>
+        <em>Sleep more. Stress less. Sleep better.</em>
       </td>
       <td style="padding: 12px; border-bottom: 1px solid #eee;">
         <span style="background-color: #f8d7da;">leads with a lecture (<strong>what</strong>)</span><br>
