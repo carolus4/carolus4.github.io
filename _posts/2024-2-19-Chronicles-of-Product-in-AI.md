@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why write about building products in AI?
+title: Writing about building products in AI
 excerpt: These posts are a chronicle of my journey in AI Product management. Here's some background.
 image: "/images/drawing-icon.jpg"
 
