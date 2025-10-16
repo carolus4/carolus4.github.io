@@ -4,18 +4,19 @@ title: Building AI Solutions People Love, with AI
 permalink: /about/
 ---
 
+My product experience is rooted in deep user empathy and a technically curious mindset. I've launched and scaled products, built teams, and raised capital.
 
-I’m a product leader with a passion for building things that truly improve people’s lives. My experience spans launching products, scaling teams, and raising capital—rooted in strong user empathy and a deeply technical background.
+Right now, I'm building AI-powered projects to learn more about what's possible and create real delightful everyday solutions. I used GenAI to coach me as an interviewer, transcribe, write and illustrate a first draft of my grandmothers' memoir. I'm very proud and optimistic for [Giskard]({% post_url 2025-10-16-building-giskard %}), my AI task-assistant.
 
-What sets me apart is my ability to learn quickly and thrive in fast-paced, high-ambiguity environments. Whether it's tackling the complex challenges of AI-driven compliance or shaping a product strategy from scratch, I love digging into the details and iterating until we find the right solution.
+I developed an entrepreneurial mindset as the first PM at Rangespan, until a [Google acquisition](https://techcrunch.com/2014/05/02/google-buys-rangespan-to-add-supply-chain-management-to-its-e-commerce-business/). I took those lessons on board as cofounder of markit!! where we build digital learning experineces for complex A-Level mathematics.
 
-Most recently, I was focused on scaling Captur as we expand into the U.S., bringing real-time compliance solutions to solve pain points in micromobility, delivery and logistics. I believe people making mistakes shouldn't be the start of a reactive, frustrating process—it should be seamless, helping people get it right the first time. I’m dedicated to making this vision a reality through innovative, user-friendly solutions.
+I learned about building products with research teams at [dimension](https://dimensionstudio.co/), and about scaling those products at [Captur](https://www.captur.ai/).
 
-As a leader, I prioritize coaching and guiding my team through hands-on examples. Building product management craft and developing future leaders are key to what drives me forward. Honesty and optimism are values I live by—both in my work and my personal life. They’re deeply tied to how I navigate challenges and remain resilient.
+Honesty and optimism are values I live by—both in my work and my personal life. They’re deeply tied to how I navigate challenges and remain resilient.
 
 I’m always eager to connect with those who are equally passionate about building great products. Let’s talk about how we can push the boundaries of what's possible.
 
-[Read more: Charles Dupont - Resume](https://docs.google.com/document/d/e/2PACX-1vScvwQXNWtDHJCmkXLz_L-VqQ6d_J-IHuFzX-_UxJw7sxZpTLec6BZgN4L3RPHW-S46ezND7RuaiNG0/pub)
+[Resume](https://docs.google.com/document/d/e/2PACX-1vScvwQXNWtDHJCmkXLz_L-VqQ6d_J-IHuFzX-_UxJw7sxZpTLec6BZgN4L3RPHW-S46ezND7RuaiNG0/pub)
 
 ### Contact me
 [Send me an email (via Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSejFqvnGVUDY6LkE9MK624vUygDLL-gmpV41jHxq53-qedkow/viewform?usp=header)
