@@ -6,7 +6,7 @@ permalink: /about/
 
 My product experience is rooted in deep user empathy and a technically curious mindset. I've launched and scaled products, built teams, and raised capital.
 
-Right now, I'm building AI-powered projects to learn more about what's possible and create real delightful everyday solutions. I used GenAI to coach me as an interviewer, transcribe, write and illustrate a first draft of my grandmothers' memoir. I'm very proud and optimistic for [Giskard]({% post_url 2025-10-16-building-giskard %}), my AI task-assistant.
+Right now, I'm building AI-powered projects to learn more about what's possible and create real delightful everyday solutions. I used GenAI to coach me as an interviewer, transcribe, write and illustrate a first draft of my grandmothers' memoir. I'm very proud and optimistic for [Giskard]({% post_url 2025-10-16-Building-Giskard %}), my AI task-assistant.
 
 I developed an entrepreneurial mindset as the first PM at Rangespan, until a [Google acquisition](https://techcrunch.com/2014/05/02/google-buys-rangespan-to-add-supply-chain-management-to-its-e-commerce-business/). I took those lessons on board as cofounder of markit!! where we build digital learning experiences for complex A-Level mathematics.
 
