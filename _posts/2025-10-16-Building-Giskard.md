@@ -42,7 +42,9 @@ In all of this, there’s been one really big opportunity - going from task-trac
 
 Here’s an example:
 > (me) I’ve got 30mn, pick a task for me
+> 
 > (giskard) Okay, I’ve fetched 22 tasks for you! There are a few learning-focused options, like “Evaluating AI Agents course” or “Discover how people are working through todos today?”. There’s also a shorter “Short Run (careful with knee)” if you’re looking for something more active.
+>
 > Given you only have 30 minutes, I'd recommend “Evaluating AI Agents course” – it seems like a great way to spend a focused 30 minutes learning. Would you like me to go ahead and add that to your to-do list?
 
 ![Giskard RAG](/images/building-giskard-rag.png)
