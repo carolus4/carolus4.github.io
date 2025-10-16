@@ -5,6 +5,7 @@ excerpt: How far can I push AI tools, as a solo builder? I started vibe-coding a
 image: "/images/building-giskard-dawn.png"
 
 ---
+How far can I push AI tools, as a solo builder? I started vibe-coding a todo list, and I’m now building a personal productivity agent, running LLMs locally, with full prompt transparency.
 
 ## “The fast fashion era of SaaS” ([Sam Altman](https://x.com/sama/status/1952084574366032354))
 
