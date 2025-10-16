@@ -6,7 +6,7 @@ image: "/images/building-giskard-dawn.png"
 
 ---
 
-# “The fast fashion era of SaaS” ([Sam Altman](https://x.com/sama/status/1952084574366032354))
+## “The fast fashion era of SaaS” ([Sam Altman](https://x.com/sama/status/1952084574366032354))
 
 I’m building alone, for myself, to learn faster, and get more done.
 
@@ -17,7 +17,7 @@ It’s clear to me: personalized versions are **very** achievable. This comes wi
 Here’s a screenshot of what that part looks like today:
 ![Giskard Task View](/images/building-giskard-tasks.png)
 
-# “The tool should get out of your way” ([Karri Saarinen](https://www.sequoiacap.com/article/linear-spotlight/))
+## “The tool should get out of your way” ([Karri Saarinen](https://www.sequoiacap.com/article/linear-spotlight/))
 
 As I added features, incremental building and the overhead of task management was getting more laborious. That shifted my perspective, and I started asking how much of the overhead I could offload. 
 
@@ -31,12 +31,12 @@ Here’s an early version, based on the idea that I want to make sure I’m spen
 ![Giskard Classification Prompt](/images/building-giskard-classification-prompt.png)
 ![Giskard Classification Log](/images/building-giskard-classification-log.png)
 
-## Detail Deep-dive - don’t make me work
+### Detail deep-dive: don’t make me work
 Having deep empathy with myself as a user, I’ve removed any attribute editing from the UI. That removes the temptation to be a super user and just get the boring bits done, creating a forcing function to fix the prompts, if there are issues. 
 
 One of the biggest wins here has been learning evaluations from the ground up. I started by rolling my own, with ChatGPT’s help, and it’s been a very helpful way to build up intuition for model performance and prompt-engineering.
 
-# “It’s not prioritisation till it hurts” ([Ami Vora](https://amivora.substack.com/p/simplifying-your-product-strategy))
+## “It’s not prioritisation till it hurts” ([Ami Vora](https://amivora.substack.com/p/simplifying-your-product-strategy))
 
 In all of this, there’s been one really big opportunity - going from task-tracking, to an assistant. Having connected my task database and locally running LLM, I’ve been looking at agent workflows. Simple RAG already has some “wow” moments for me.
 
