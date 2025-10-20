@@ -5,8 +5,9 @@ excerpt: How far can I push AI tools, as a solo builder? I started vibe-coding a
 image: "/images/building-giskard-dawn.png"
 
 ---
-'Todo apps' feel to me like overhead, not support. This summer, I had a look at what's out there with AI, but it was still underwhelming. Rather than another premium subscription, I started experimenting with building my own productivity system. Here's a look at what I tried, and some lessons learned along the way.
+'Todo apps' feel to me like overhead, not support. This summer, I had a look at what's out there with AI, but it was still underwhelming. Rather than another premium subscription, I started experimenting with building my own productivity system, focused on problems that were most important to me personally: the emotional labor of prioritisation, staying intentional with how I spend my time, and simply having a good record of my tasks over time.
 
+Here's a look at what I tried, and some lessons learned along the way.
 
 ## “The fast fashion era of SaaS” ([Sam Altman](https://x.com/sama/status/1952084574366032354))
 
