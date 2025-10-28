@@ -16,7 +16,7 @@ Honesty and optimism are values I live by—both in my work and my personal life
 
 I’m always eager to connect with those who are equally passionate about building great products. Let’s talk about how we can push the boundaries of what's possible.
 
-[Resume](https://docs.google.com/document/d/e/2PACX-1vScvwQXNWtDHJCmkXLz_L-VqQ6d_J-IHuFzX-_UxJw7sxZpTLec6BZgN4L3RPHW-S46ezND7RuaiNG0/pub)
+[Resume](https://docs.google.com/document/d/e/2PACX-1vRAgmG-DMH_klb-cMx73xorkwFLDFUDj_HTASjPN5f1kX5xQH9g1-lS1FyKivXiNNuc5Lzrr5_JVLT3/pub)
 
 ### Contact me
 [Send me an email (via Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSejFqvnGVUDY6LkE9MK624vUygDLL-gmpV41jHxq53-qedkow/viewform?usp=header)
