@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GenAI to capture a moment (a discovery of image tools)"
+title: "GenAI to capture a moment"
 excerpt: "Exploring generative AI tools to capture moments in NYC and New Jersey - my first creative project using Runway, Udio, and Kling."
 image: "/images/list-page/genai-nyc-runway-statue-of-liberty-waterfront.webp"
 

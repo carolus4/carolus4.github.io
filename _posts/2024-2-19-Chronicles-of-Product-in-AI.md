@@ -13,7 +13,7 @@ Writing is valuable for me, but I get so much energy and joy from feedback and e
 ### About me
 I'm Charles, and I've been in product and startups for almost 15 years. Creating tools in a space where there's high-ambiguity motivates me. 
 
-At Captur, I'm building Applied AI solutions for compliance. That means giving users guidance on things like how to park an escooter safely, or deliver packages securely.
+At Captur, I built Applied AI solutions for compliance. That means giving users guidance on things like how to park an escooter safely, or deliver packages securely.
 
 ### About these posts
 Getting good product outcomes with AI can be hard. Common tools and frameworks don't always work, or feel incomplete.

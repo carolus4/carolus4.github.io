@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building Giskard
-excerpt: How far can I push AI tools, as a solo builder? I started vibe-coding a todo list, and I’m now building a personal productivity agent, running LLMs locally, with full prompt transparency. 
+excerpt: How far can I push AI tools, as a solo builder? I started vibe-coding a todo list, and I’m now building a personal productivity agent, running LLMs locally. 
 image: "/images/list-page/building-giskard-dawn.webp"
 
 ---

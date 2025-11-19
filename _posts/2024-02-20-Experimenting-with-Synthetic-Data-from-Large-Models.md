@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning directly from Large Models (a technical exploration)
+title: Learning directly from Large Models
 excerpt: This is surprisingly quick, and speed of experimentation is magical. A practical look at our hackathon project.
 image: "/images/list-page/learning-from-llms-generated-image.webp"
 ---

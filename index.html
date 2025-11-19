@@ -5,20 +5,21 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      {% if post.image %}
-      <div class="post-image">
-        <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
-      </div>
-      {% endif %}
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="post-link">
+        <div class="post-content">
+          <div class="post-text">
+            <h1>{{ post.title }}</h1>
+            <div class="entry">
+              {{ post.excerpt }}
+            </div>
+          </div>
+          {% if post.image %}
+          <div class="post-image">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+          </div>
+          {% endif %}
+        </div>
+      </a>
     </article>
   {% endfor %}
 </div>
