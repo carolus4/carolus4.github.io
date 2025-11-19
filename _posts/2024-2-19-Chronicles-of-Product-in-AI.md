@@ -2,7 +2,7 @@
 layout: post
 title: Writing about building products in AI
 excerpt: These posts are a chronicle of my journey in AI Product management. Here's some background.
-image: "/images/drawing-icon.jpg"
+image: "/images/list-page/drawing-icon.webp"
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Building Giskard
 excerpt: How far can I push AI tools, as a solo builder? I started vibe-coding a todo list, and I’m now building a personal productivity agent, running LLMs locally, with full prompt transparency. 
-image: "/images/building-giskard-dawn.png"
+image: "/images/list-page/building-giskard-dawn.webp"
 
 ---
 'Todo apps' feel to me like overhead, not support. This summer, I had a look at what's out there with AI, but it was still underwhelming. Rather than another premium subscription, I started experimenting with building my own productivity system, focused on problems that were most important to me personally: the emotional labor of prioritisation, staying intentional with how I spend my time, and simply having a good record of my tasks over time.

@@ -2,7 +2,7 @@
 layout: post
 title: How do your users think about your product?
 excerpt: Have you ever built a great solution to a real problem, but felt like the people you’re building it for don’t immediately ‘get it’? Exploring positioning with examples.
-image: "/images/positioning-more-cookie-more-happy.jpg"
+image: "/images/list-page/positioning-more-cookie-more-happy.webp"
 
 ---
 

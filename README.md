@@ -3,6 +3,17 @@ This blog is hosted on Github Pages, based on a fork of [Jekyll-now](https://git
 
 Copyright for the Jekyll theme belongs to the original author(s).
 
+# Posting Instructions
+
+## Header Images for Blog Posts
+
+For ease of rendering, header images displayed on the blog list page should follow these specifications:
+- **Dimensions**: 1200×675 pixels (exact)
+- **Aspect Ratio**: 16:9
+- **Format**: WebP (preferred) or PNG/JPG
+- **Location**: Store in `images/list-page/`
+- **Reference**: Set in post front matter as `image: "/images/list-page/filename.webp"`
+
 ## Copyright for Content
 All content within this site, including but not limited to blog posts and images, is copyrighted by Charles Dupont unless otherwise noted and may not be used without permission.
 
