@@ -5,6 +5,11 @@ Copyright for the Jekyll theme belongs to the original author(s).
 
 # Posting Instructions
 
+## Title & Excerpt
+Keep these short to make the content skimmable. 
+4-7 words for a title
+max 3 lines for the excerpt
+
 ## Header Images for Blog Posts
 
 For ease of rendering, header images displayed on the blog list page should follow these specifications:
