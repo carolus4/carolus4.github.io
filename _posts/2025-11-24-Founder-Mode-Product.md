@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Founder-Mode product work for startups
+title: Founder-Mode product work
 excerpt: Early PM roles rarely match the JD. The job is top learn fast, execute well in imperfect conditions, and bend the company’s trajectory.
-image: "/images/list-page/building-giskard-dawn.webp"
+image: "/images/list-page/founder-mode.webp"
 
 ---
 
@@ -29,3 +29,15 @@ Critically, it’s also the PM’s responsibility to address the sources of fric
 
 
 Early PM roles rarely match the job description. Founder-mode product work means rapid experimentation, learning fast, and driving execution with the team you have. Done well, it creates  inflection points in the company trajectory.
+
+---
+
+Relevant other reading
+- https://a16z.com/good-product-manager-bad-product-manager/
+- https://paulgraham.com/foundermode.html
+- https://www.lennysnewsletter.com/p/how-to-ship-like-a-startup
+- https://handbook.gitlab.com/handbook/values/#short-toes
+- https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development
+- https://amivora.substack.com/p/learning-to-make-decisions-in-a-new
+
+[Image Credit - apparel shop](https://www.tb4a.com/products/founder-mode-hat?variant=42361325289546)
