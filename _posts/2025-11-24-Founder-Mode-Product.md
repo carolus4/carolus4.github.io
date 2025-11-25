@@ -6,8 +6,7 @@ image: "/images/list-page/founder-mode.webp"
 
 ---
 
-“A good product manager is the CEO of the product” - I never felt like that when I was the only PM in a startup - even when I was a founder. Sure, I had all of the accountability, most of the autonomy, and the inflated sense of mission / impostor syndrome. 
-But instead of a manager, I always felt more like a founder. I’ve heard that from others who are the first PM through the door. Here are the ambiguous areas early PMs have to get comfortable with. 
+“A good product manager is the CEO of the product” - I never felt like that when I was the only PM in a startup. Instead, I always felt more like a founder again. I’ve heard that from others who are the first PM through the door. Here are the ambiguous areas early PMs have to get comfortable with. 
 
 ## Iterating quickly, finding strong signal in sparse data
 
