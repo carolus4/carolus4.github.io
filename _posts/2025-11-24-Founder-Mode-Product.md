@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Founder-Mode product work
-excerpt: Early PM roles rarely match the JD. The job is top learn fast, execute well in imperfect conditions, and bend the company’s trajectory.
+excerpt: Early PM roles rarely match the JD. The job is to learn fast, execute well in imperfect conditions, and bend the company’s trajectory.
 image: "/images/list-page/founder-mode.webp"
 
 ---
