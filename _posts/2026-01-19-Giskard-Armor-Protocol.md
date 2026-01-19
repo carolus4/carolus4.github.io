@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Giskard: ARMOR Protocol
+title: "Giskard: ARMOR Protocol"
 excerpt: A changelog for my personal productivity system with local LLMs, with features for each of the ARMOR shields.
 image: "/images/list-page/giskard-armor-protocol.webp"
 ---
