@@ -4,10 +4,6 @@ title: "Giskard: ARMOR Protocol"
 excerpt: A changelog for my personal productivity system with local LLMs, with features for each of the ARMOR shields.
 image: "/images/list-page/giskard-armor-protocol.webp"
 ---
-
-
-# Giskard: ARMOR Protocol
-
 ## A changelog for my personal productivity system with local LLMs
 
 Working better was a major motivation for building [Giskard](https://carolus4.github.io/Building-Giskard/). I wanted to start 2026 taking concrete steps to build resilience into my ways of working, based on this investigation into [tech’s most resilient workers](https://www.lennysnewsletter.com/p/how-techs-most-resilient-workers) (paid link).
